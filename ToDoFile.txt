@@ -1,0 +1,4 @@
+shopping,high
+laundry,medium
+workout,low
+dishes,high
